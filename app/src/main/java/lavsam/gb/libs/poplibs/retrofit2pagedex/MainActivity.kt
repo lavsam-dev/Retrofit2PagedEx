@@ -9,7 +9,7 @@ import androidx.paging.PagedList
 import androidx.recyclerview.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.activity_main.*
 import lavsam.gb.libs.poplibs.retrofit2pagedex.databinding.ActivityMainBinding
-
+// работа со страницами. Пока пусто...
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
